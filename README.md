@@ -6,8 +6,8 @@ This is my Shopify Frontend Internship challenge submission. This is a simple Re
 
 ## Setup
 
-`npm install`
-`npm start`
+1. `npm install`
+2. `npm start`
 
 ## Features
 * Error handling for search queries

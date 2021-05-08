@@ -4,6 +4,8 @@
 
 This is my Shopify Frontend Internship challenge submission. This is a simple React web app which uses `react-bootstrap` for the UI and conditionally renders parts of the page. I implemented all of the required features and chose to use `react-horizontal-scrolling-menu` as the main UI for rendering the list of movies.
 
+View the live web app on Heroku [here](https://shoppiesnominationtool.herokuapp.com/).
+
 ## Setup
 
 1. `npm install`
